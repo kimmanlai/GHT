@@ -1,3 +1,3 @@
 # GHT
-git hubfoundations training
+git hub foundations training
 
