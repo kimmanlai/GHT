@@ -1,4 +1,4 @@
 # Inhoudsopgave
-## Hoofdstuk 1
-## Hoofdstuk 2
+##Hoofdstuk 1
+##Hoofdstuk 2
 
