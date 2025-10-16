@@ -1,4 +1,4 @@
-# GHT
-git hub foundations training
-git hubfoundations training
+# Inhoudsopgave
+##Hoofdstuk 1
+##Hoofdstuk 2
 
